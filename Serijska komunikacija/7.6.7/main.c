@@ -9,6 +9,7 @@ datom nizu nakon isteka vremenskog intervala od 2s (eng. time-out).
 pronađen.
 U nastavku su dati primeri unosa, očekivane povratne vrednosti i sadržaj serijskog
 bafera nakon poziva funkcije usartParseInt().
+
 ULAZ: 123
 Povratna vrednost: 123
 Serijski bafer: prazan
@@ -16,8 +17,7 @@ ULAZ: -123
 Povratna vrednost: -123
 Serijski bafer: prazan
 ULAZ: abc123
-94
-Poglavlje 7
+
 Povratna vrednost: 123
 Serijski bafer: prazan
 ULAZ: abc123def
